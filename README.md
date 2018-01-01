@@ -2,6 +2,8 @@
 
 Params validations for Ruby on Rails.
 
+[![Build Status](https://circleci.com/gh/rdelandesen/validate_params.svg?&style=shield&circle-token=07c20c3f9486aeae32f2ce63ef5f956ba26b968f)](https://circleci.com/gh/rdelandesen/validate_params)
+
 ## Installation
 Add this line to your application's Gemfile:
 
